@@ -32,6 +32,7 @@ class Q1
 		System.out.println(luckySum(1, 2, 3));
 		System.out.println(luckySum(1, 2, 13));
 		System.out.println(luckySum(1, 13, 2));
+		system.out.println("Hello world");
 	}
 
 }
